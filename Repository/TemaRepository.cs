@@ -37,7 +37,7 @@ public class TemaRepository : ITemaRepository
             Descripcion = "Cada componente de software debe tener una sola razón para cambiar",
             Metafora = "Metafora para SRP",
             Principio = "S de SOLID - Responsabilidad Única",
-            Causado = "Si una clase maneja la UI y la persiostencia juntas, cualquier cambio en la base de datos romperá la UI por efecto dominó."
+            Causado = "Si una clase maneja la UI y la persistencia juntas, cualquier cambio en la base de datos romperá la UI por efecto dominó."
         };
         
     }
